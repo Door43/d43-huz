@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[huz:home|Door43 (huz)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-huz|d43-huz repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-huz/archive/master.zip|d43-huz.zip]]
+
+**Recent Changes**
+{{changes>ns = huz}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/huz|Ethnologue data]]
+
